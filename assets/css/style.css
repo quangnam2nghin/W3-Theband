@@ -328,6 +328,9 @@ html {
     margin-top: 15px;
     font-size: 15px;
 }
+.socials-list a:hover {
+    opacity: 0.6;
+}
 
 
 
